@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Reportes de cobertura
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
